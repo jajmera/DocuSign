@@ -1,0 +1,5 @@
+/Users/jatan/Projects/DocuSign/DocuSign/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jatan/Projects/DocuSign/DocuSign/bin/Debug/DocuSign.exe.mdb
+/Users/jatan/Projects/DocuSign/DocuSign/bin/Debug/DocuSign.exe
+/Users/jatan/Projects/DocuSign/DocuSign/obj/x86/Debug/DocuSign.exe
+/Users/jatan/Projects/DocuSign/DocuSign/obj/x86/Debug/DocuSign.exe.mdb
